@@ -25,3 +25,6 @@ The objective of this project was that the store wants to create an annual sales
 4. Acknowledge the substantial contribution of Amazon, Myntra, and Flipkart channels to overall sales and invest in optimizing these platforms for enhanced visibility and customer reach.
 
 By aligning business strategies with these insights, the company can not only capitalize on existing strengths but also strategically position itself to tap into new opportunities and further strengthen its market presence.
+
+# Checkout the below link to see how the Nova Store Data Analytics Dashboard works:
+[Nova Store Data Analytics](https://drive.google.com/file/d/1-bjAzFsMawfsaQBvbcjqPVBPjWMBrEGB/view)
