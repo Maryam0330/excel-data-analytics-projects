@@ -19,3 +19,6 @@ The HR Data Analytics Dashboard is mainly focused on the Attritions. It includes
 6. Implement initiatives recognizing and accommodating the needs of married employees, such as flexible work arrangements or family support programs. Assess the impact of marital status on job satisfaction and retention.
    
 By addressing these points, the company can foster a more diverse, inclusive, and responsive workplace, optimizing talent and contributing to overall organizational success.
+
+# Checkout the below link to see how the HR Data Analytics Dashboard works:
+[HR Data Analytics](https://drive.google.com/file/d/1-XkKr9egRGh3DuyRK-lNP1fo7EWaLMg-/view)
