@@ -1,6 +1,6 @@
-# HR Data Analytics
+# HR Attrition Data Analytics
 
-The HR Data Analytics Dashboard is mainly focused on the Attritions. It includes 5 Key Performance Indicators (KPI's) which gives overall performance of the company. This KPI's includes information regarding Total Employees, Attritions, Active Employees, Attrtion Rate and Average Age. It also includes the Job Satisfaction Rating component showcasing the ratings. The different Pivot Charts shows the information about Total Employee by Gender, Education wise Attrition, Attrition by Job Role, Department wise attrition, Attrition by Age Group and Martial Status. It includes Filter Panel regarding Education Field and Department created using slicers. Automated dashboards was created within Excel by `data cleaning`, `data processing`, `data analysis`, `data visualization`, and insights were gained from the data. Used Pivot Tables, Formulas, Pivot Charts, KPI's, Slicers to create automated dashboards. 
+The HR Attrition Data Analytics Dashboard is mainly focused on the Attritions. It includes 5 Key Performance Indicators (KPI's) which gives overall performance of the company. This KPI's includes information regarding Total Employees, Attritions, Active Employees, Attrtion Rate and Average Age. It also includes the Job Satisfaction Rating component showcasing the ratings. The different Pivot Charts shows the information about Total Employee by Gender, Education wise Attrition, Attrition by Job Role, Department wise attrition, Attrition by Age Group and Martial Status. It includes Filter Panel regarding Education Field and Department created using slicers. Automated dashboards was created within Excel by `data cleaning`, `data processing`, `data analysis`, `data visualization`, and insights were gained from the data. Used Pivot Tables, Formulas, Pivot Charts, KPI's, Slicers to create automated dashboards. 
 
 # 📌Insights Gained:
 1. Male employees in the company are more as compared to the women employees.
@@ -10,7 +10,7 @@ The HR Data Analytics Dashboard is mainly focused on the Attritions. It includes
 5. Employees having age group (25-34 years) are maximum compared to the other age groups.
 6. Married employees in the company are more likely to be seen.
 
-# 📌Final Conclusion to improve HR Data Analytics:
+# 📌Final Conclusion to improve HR Attrition Data Analytics:
 1. Develop strategies to increase gender diversity, promoting inclusivity in recruitment and retention practices. Implement programs to encourage women to pursue careers in the company, ensuring equal opportunities.
 2. Explore ways to attract employees with diverse educational backgrounds. Develop training and development programs tailored to employees with non-Bachelor's degrees.
 3. Review job roles and responsibilities to ensure a balanced distribution across different positions. Assess whether the overrepresentation of Laboratory Technicians aligns with organizational goals.
@@ -20,5 +20,5 @@ The HR Data Analytics Dashboard is mainly focused on the Attritions. It includes
    
 By addressing these points, the company can foster a more diverse, inclusive, and responsive workplace, optimizing talent and contributing to overall organizational success.
 
-# Checkout the below link to see how the HR Data Analytics Dashboard works:
-[HR Data Analytics](https://drive.google.com/file/d/1-XkKr9egRGh3DuyRK-lNP1fo7EWaLMg-/view)
+# Checkout the below link to see how the HR Attrition Data Analytics Dashboard works:
+[HR Attrition Data Analytics](https://drive.google.com/file/d/1-XkKr9egRGh3DuyRK-lNP1fo7EWaLMg-/view)
