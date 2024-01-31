@@ -18,5 +18,10 @@ The objective of this project was that the store wants to create an annual sales
 - Adult age group (30-49 years) is maximum contributing (~50%)
 - Amazon, Myntra and Flipkart channels are maximum contributing (~80%)
 
-# 📌Final conclusion to improve Nova Store sales:
-The sales can be grown and improved by showing ads/offers/coupons to target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh available on Amazon, Myntra and Flipkart.
+# 📌Final Conclusion to improve Nova Store Sales:
+1. Given that women exhibit a higher likelihood to buy, tailor marketing and product strategies to better appeal to this demographic, enhancing customer engagement and satisfaction.
+2. Focus marketing efforts and expansion plans on the top three states—Maharashtra, Karnataka, and Uttar Pradesh—which contribute significantly to sales, ensuring effective utilization of resources.
+3. Recognize the dominance of the adult age group (30-49 years) in contributing to sales, emphasizing the importance of designing products and marketing campaigns that resonate with the preferences and needs of this demographic.
+4. Acknowledge the substantial contribution of Amazon, Myntra, and Flipkart channels to overall sales and invest in optimizing these platforms for enhanced visibility and customer reach.
+
+By aligning business strategies with these insights, the company can not only capitalize on existing strengths but also strategically position itself to tap into new opportunities and further strengthen its market presence.
